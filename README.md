@@ -28,6 +28,13 @@ Fullstack:
 
 > [React + Node.js + Express + MySQL example](https://bezkoder.com/react-node-express-mysql/)
 
+Integration (run back-end & front-end on same server/port)
+> [Integrate React with Node.js Restful Services](https://bezkoder.com/integrate-react-express-same-server-port/)
+
+> [Integrate Angular with Node.js Restful Services](https://bezkoder.com/integrate-angular-10-node-js/)
+
+> [Integrate Vue with Node.js Restful Services](https://bezkoder.com/serve-vue-app-express/)
+
 ## Project setup
 ```
 npm install
