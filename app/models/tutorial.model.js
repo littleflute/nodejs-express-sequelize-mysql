@@ -8,7 +8,13 @@ module.exports = (sequelize, Sequelize) => {
     },
     published: {
       type: Sequelize.BOOLEAN
-    }
+    },
+    xd1: {
+      type: Sequelize.STRING
+    }, 
+    xd2: {
+      type: Sequelize.STRING
+    } 
   });
 
   return Tutorial;
